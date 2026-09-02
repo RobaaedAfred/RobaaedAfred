@@ -2,7 +2,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=200&section=header&text=Robaaed%20Afred&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Web%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20Enthusiast&descSize=16&descAlignY=55" width="100%" />
+  <img src="./github-banner.png" alt="Robaaed Afred GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Robaaed Afred Tanik</h1>
